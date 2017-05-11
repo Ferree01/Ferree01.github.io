@@ -1,0 +1,108 @@
+li a:hover {
+
+    background-color: #21b82b;
+
+}
+
+a.test{
+
+    margin: 20px 20px;
+
+    font-size: 20px;
+
+}
+
+a.test:link, a.test:visited {
+
+    background-color: black;
+
+    font-size: 30px;
+
+    color: white;
+
+    padding: 20px 22px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+
+}
+a.test:hover, a.test:active {
+
+    background-color: blue;
+
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.hello{
+    position: absolute;
+    left: 50px;
+}
+.MonsterImage{
+    position: absolute;
+    left: 325px;
+    top: 30px;
+}
+.Posts{
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+div.theAuther{
+    position: absolute;
+    left: 10px;
+    top: 250px;
+}
+div.podcast{
+    position: absolute;
+    left: 10px;
+    top: 175px;
+}
+
+
+p{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+p1{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 175px;
+    left: 350px;
+}
+p2{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 225px;
+    left: 350px;
+}
+div.youTube{
+    position: absolute;
+    top: 220px;
+    left: 550px;
+}
+p3{
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 280px;
+    left: 350px;
+}
+div.twitter{
+    position: absolute;
+    top: 280px;
+    left: 550px;
+}
+
