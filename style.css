@@ -1,0 +1,67 @@
+li a:hover {
+
+    background-color: #21b82b;
+
+}
+
+a.test{
+
+    margin: 20px 20px;
+
+    font-size: 20px;
+
+}
+
+a.test:link, a.test:visited {
+
+    background-color: black;
+
+    font-size: 30px;
+
+    color: white;
+
+    padding: 20px 22px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+
+}
+a.test:hover, a.test:active {
+
+    background-color: blue;
+
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.hello{
+    position: absolute;
+    left: 50px;
+}
+.MonsterImage{
+    position: absolute;
+    left: 275px;
+    top: 30px;
+}
+.Posts{
+    position: absolute;
+    left: 10px;
+    top: 100px;
+}
+div.theAuther{
+    position: absolute;
+    left: 10px;
+    top: 250px;
+}
+div.podcast{
+    position: absolute;
+    left: 10px;
+    top: 175px;
+}
